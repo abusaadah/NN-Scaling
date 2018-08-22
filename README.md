@@ -1,0 +1,2 @@
+# NN-Scaling
+Training a Deep Neural Network (DNN) requires a lot of data and computing resources, because of the size of the network and the number of training parameters involved. In this project, we design a channel layering framework that uses certain percentage (say 30% - 100%) of the channels by dynamically scaling model down by a factor during training; and finally selecting the range that gives the best performance at the inference.
