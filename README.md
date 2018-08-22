@@ -22,6 +22,6 @@ Training a Deep Neural Network (DNN) requires a lot of data and computing resour
     vii.  plot.py: plots model performance
   
   # b) Run the Code: run the files
-       i. python train_test.py
-       ii. python pofile_22.py
-       iii python plot.py
+       i. train_test.py
+       ii. pofile_22.py
+       iii plot.py
