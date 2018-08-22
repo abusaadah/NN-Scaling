@@ -4,11 +4,11 @@ Training a Deep Neural Network (DNN) requires a lot of data and computing resour
 # Note:
   Different weight profile functions could be used, but in this work, we use Linear Profile Function.
 
-# Required packages
-  . Tensorflow
-  . numpy
-  . matplotlib
-  . scipy
+# Required packages:
+    . Tensorflow
+    . numpy
+    . matplotlib
+    . scipy
 
 # How the Code works
 
@@ -21,7 +21,7 @@ Training a Deep Neural Network (DNN) requires a lot of data and computing resour
     vi.  pofile_3.py: Third Profile
     vii.  plot.py: plots model performance
   
-  # b) Run the Code: run 
-       i. $ python train_test.py
-       ii.  $ python pofile_22.py
-       iii $ python plot.py
+  # b) Run the Code: run the files
+       i. python train_test.py
+       ii. python pofile_22.py
+       iii python plot.py
