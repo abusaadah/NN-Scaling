@@ -1,5 +1,5 @@
 # NN-Scaling
-Training a Deep Neural Network (DNN) requires a lot of data and computing resources, because of the size of the network and the number  of training parameters involved. In this project, we design a multiple channel layering framework that uses percentage of the channels (0-20%, 20%-40% and 40%-100%) by multiplying the weights with a profile function that dynamically scale down the model and speed up the training. Finally, the dynamic range across the entire channels that gives the best performance at the inference is selected. 
+Training a Deep Neural Network (DNN) requires a lot of data and computing resources, because of the size of the network and the number  of training parameters involved. In this project, we design a multiple channel layering framework that uses percentage of the channels (0-20%, 20%-40% and 40%-100%) by multiplying the weights with a profile function that dynamically scales down the model and speeds up the training. Finally, the dynamic range across the entire channels that gives the best performance at the inference is selected. 
 
 # Note:
   Different weight profile functions could be used, but in this work, we use Linear Profile Function.
