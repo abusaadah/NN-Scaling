@@ -5,7 +5,7 @@ Training a Deep Neural Network (DNN) requires a lot of data and computing resour
   Different weight profile functions could be used, but in this work, we use Linear Profile Function.
 
 # Required packages:
-    . Tensorflow
+    . Tensorflow 1.xx
     . numpy
     . matplotlib
     . scipy
